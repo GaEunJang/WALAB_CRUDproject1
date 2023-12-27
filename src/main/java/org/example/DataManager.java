@@ -59,10 +59,11 @@ public class DataManager {
 
     public static void updateData(){
         readData();
-        System.out.print("수정할 데이터의 번호를 입력하세요. :");
+        System.out.print("수정할 데이터의 번호를 입력하세요. : ");
         int updateId = in.nextInt();
         in.nextLine();
 
+        boolean found = false;
         for(ClothingData data : dataList){
             if(data.getId() == updateId){
                 System.out.print("새로운 종류를 입력하세요. (아우터, 상의, 하의, 기타) : ");
@@ -81,27 +82,38 @@ public class DataManager {
                 data.setDescription(newDescription);
 
                 System.out.println("데이터가 성공적으로 업데이트되었습니다.\n");
-            }
-            else{
-                System.out.println("번호 " + updateId + "에 해당하는 데이터를 찾을 수 없습니다.\n");
+                found = true;
+                break;
             }
         }
+
+        if (!found) {
+            System.out.println("번호 " + updateId + "에 해당하는 데이터를 찾을 수 없습니다.\n");
+        }
     }
+
 
     public static void deleteData(){
         readData();
-        System.out.println("삭제할 데이터의 번호를 입력하세요. : ");
-        int deleteId=in.nextInt();
+        System.out.print("삭제할 데이터의 번호를 입력하세요. : ");
+        int deleteId = in.nextInt();
         in.nextLine();
 
-        for(ClothingData data : dataList){
-            if(data.getId()==deleteId){
-                dataList.remove(data);
+        boolean found = false;
+        for (int i = 0; i < dataList.size(); i++) {
+            if (dataList.get(i).getId() == deleteId) {
+                dataList.remove(i);
                 System.out.println("데이터가 성공적으로 삭제되었습니다.\n");
+                found = true;
+                break;
             }
+        }
+
+        if (!found) {
             System.out.println("번호 " + deleteId + "에 해당하는 데이터를 찾을 수 없습니다.\n");
         }
     }
+
 
     public static void searchType() {
         if (dataList.isEmpty()) {
