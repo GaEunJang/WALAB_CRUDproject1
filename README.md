@@ -51,7 +51,7 @@
 
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/d5e7c13c-da80-428c-b600-74f4e7298a85.png"><br>
 
-<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/32ca114f-cd6e-43b7-8170-5316401c26e1.png"><br>
+<img width="280" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/32ca114f-cd6e-43b7-8170-5316401c26e1.png"><br>
 
 <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/5e63eef1-bb85-4dd5-bbc4-1f9c33bee28b.png"><br>
 
