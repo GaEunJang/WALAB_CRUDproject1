@@ -35,23 +35,23 @@
 3. 프로그램을 종료하려면 '0'을 선택합니다.
 
 ## 스크린샷
-<img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/03876b77-dda8-4e9d-bf86-453af9cef5d2.png">
-
-<img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/f006f376-da33-4d07-8308-a3894bbfe59f.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/f46b6547-82b0-43cf-979c-f4e3c4ac0f14.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/8d5ce59b-9ccd-4dc1-baf1-cee36a3424b3.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/d7a8c34b-7a25-4aa6-a55c-099ec7cd6535.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/8dbff461-5c05-4b6c-973e-65cc1b1cf13d.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/5bd6daf1-26aa-4d8b-8466-c3c1c8484676.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/d5e7c13c-da80-428c-b600-74f4e7298a85.png">
-
- <img width="200" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/32ca114f-cd6e-43b7-8170-5316401c26e1.png">
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/03876b77-dda8-4e9d-bf86-453af9cef5d2.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/f006f376-da33-4d07-8308-a3894bbfe59f.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/f46b6547-82b0-43cf-979c-f4e3c4ac0f14.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/8d5ce59b-9ccd-4dc1-baf1-cee36a3424b3.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/d7a8c34b-7a25-4aa6-a55c-099ec7cd6535.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/8dbff461-5c05-4b6c-973e-65cc1b1cf13d.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/5bd6daf1-26aa-4d8b-8466-c3c1c8484676.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/d5e7c13c-da80-428c-b600-74f4e7298a85.png">
+<br/><br/>
+<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/32ca114f-cd6e-43b7-8170-5316401c26e1.png">
 
  <img width="200" src="(https://github.com/GaEunJang/WALAB_CRUDproject1/assets/103119924/5e63eef1-bb85-4dd5-bbc4-1f9c33bee28b.png">
 
