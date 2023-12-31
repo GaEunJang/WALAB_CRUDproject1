@@ -9,9 +9,9 @@
 - **정렬 기능**: 데이터 정렬 기능.
 
 ## 사용된 라이브러리
-- java.util.ArrayList
-- java.util.Comparator
-- java.util.Scanner
+- **java.util.ArrayList**
+- **java.util.Comparator**
+- **java.util.Scanner**
 
 ## 클래스 및 패키지
 - **org.example.ClothingData**
